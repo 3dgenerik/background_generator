@@ -15,7 +15,7 @@ var colorGradient = function(){
                                     +")";
     console.log(leftCol);
     if (leftCol === "#ff0000"){
-        leftCol = "Red";s
+        leftCol = "Red";
     }else if(leftCol === "#0000ff"){
         leftCol = "Blue";
     }else if(leftCol === "#00ff00"){
